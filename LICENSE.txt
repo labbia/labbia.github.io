@@ -1,3 +1,7 @@
+Copyright © 2022 Elio Labbia for commits ahead of forked Jekyll theme minima-reboot.
+
+minima-reboot (https://github.com/aterenin/minima-reboot) is licensed under:
+
 The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
