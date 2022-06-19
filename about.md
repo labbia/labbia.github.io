@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is Minima Reboot, a Bootstrap-based rewrite of [Minima](https://github.com/jekyll/minima), the base Jekyll theme. It is designed to be lightweight, easy-to-use, and responsive.
+👋 Hi there! I'm Elio Labbia. I write articles about all things macOS. If you like what I write and want me to continue doing the same, upvote me. Cheers!
 
-You can find Minima Reboot's source code at: [minima-reboot](https://github.com/aterenin/minima-reboot).
+This is a collection of my posts on Reddit so far.
