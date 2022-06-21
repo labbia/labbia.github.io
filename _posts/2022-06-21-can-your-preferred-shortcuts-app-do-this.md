@@ -7,7 +7,7 @@ Most browser extensions can read sensitive information from web pages, including
 
 A shortcut that comes in handy is **⇧⌘/** because it works in practically every application and very quickly since it is built into macOS.
 
-![Search Shorcuts](/assets/images/SearchShortcuts.gif){:width="50%"}
+![Search Shorcuts]([/assets/images/SearchShortcuts.gif](https://raw.githubusercontent.com/labbia/labbia.github.io/master/assets/images/SearchShortcuts.gif){:width="50%"}
 
 One could obviously add a keyboard shortcut for this menu item in the App Shortcuts preferences pane but you would eventually run out of available shortcuts.
 
