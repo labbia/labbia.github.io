@@ -7,4 +7,4 @@ I already know [**AirMail**](https://airmailapp.com/) can do this and Apple's Ma
 
 Thank you
 
-[37 Comments on Reddit ⟶](https://www.reddit.com/r/macapps/comments/uxj1ng/do_you_know_of_a_macos_mail_client_with_a_total/)
+[Comments on Reddit ⟶](https://www.reddit.com/r/macapps/comments/uxj1ng/do_you_know_of_a_macos_mail_client_with_a_total/)
