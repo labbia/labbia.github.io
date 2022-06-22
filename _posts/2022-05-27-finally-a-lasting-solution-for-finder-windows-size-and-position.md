@@ -17,4 +17,4 @@ Here's a direct download link: [https://synappser.github.io/downloads/](https://
 
 I do recommend however to first take a look at the funny video explaining the "why" of Finder's behaviour on [https://synappser.github.io/apps/finderfix/](https://synappser.github.io/apps/finderfix/) (top right of the page).
 
-[30 Comments on Reddit ⟶](https://www.reddit.com/r/MacOS/comments/uysnq4/finally_a_lasting_solution_for_finder_windows/)
+[Comments on Reddit ⟶](https://www.reddit.com/r/MacOS/comments/uysnq4/finally_a_lasting_solution_for_finder_windows/)
