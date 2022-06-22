@@ -17,4 +17,4 @@ P.S. [**Paletro**](https://appmakes.io/paletro)  by appmakes.io, the makers of T
 
 ![Paletro](https://appmakes.io/static/paletro/color-1.png){:width="50%"}
 
-[? Comments on Reddit ⟶]()
+[Comments on Reddit ⟶](https://www.reddit.com/r/MacOS/comments/vhd1jo/can_your_preferred_shortcutsapp_do_this/)
