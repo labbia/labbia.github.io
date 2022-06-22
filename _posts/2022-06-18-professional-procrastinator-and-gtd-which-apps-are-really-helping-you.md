@@ -15,4 +15,4 @@ What about you? Which tools work best for you and why?
 
 Please share your thoughts and your own approach.
 
-[10 Comments on Reddit ⟶](https://www.reddit.com/r/MacOS/comments/vf3yn6/professional_procrastinator_and_gtd_which_apps/)
+[Comments on Reddit ⟶](https://www.reddit.com/r/MacOS/comments/vf3yn6/professional_procrastinator_and_gtd_which_apps/)
