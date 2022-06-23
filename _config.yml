@@ -1,7 +1,7 @@
 title: All Things macOS
 author: Elio Labbia
 description: >
-  Apple Silicon M1, Monterey, Ventura, MacBook Pro, Finder, System Utilities, Mac Menu Bar Apps and whatnot.
+  Apple Silicon M1, Monterey, Ventura, MacBook Pro, Mac Window Management, Finder, System Utilities, Mac Menu Bar Apps and whatnot.
 
 plugins:
   - jekyll-seo-tag
